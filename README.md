@@ -1,11 +1,9 @@
 # twitter-cyberthreat-detection
 This repository holds the dataset used to conduct experiments for the "Cyberthreat Detection from Twitter using Deep Neural Networks" accepted to the IJCNN 2019.
 
-# Columns:
-relevant  tweet  entities
+We will also upload the code and pre-trained models soon. 
 
-relevant : Boolean value which indicates if a tweet is considered relevant or not
+# Data:
+Due to Twitter's policy, we can only publish IDs.
+Some of these tweets can longer be retrieved, either because the tweet was deleted or the user no longer exists.
 
-tweet : contents of a tweet after passing through the pre-processing pipeline
-
-entities : sequence of entities corresponding to each element in a tweet
