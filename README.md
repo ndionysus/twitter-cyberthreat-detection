@@ -18,12 +18,15 @@ The output of this script will provide 3 main csv files and 9 txt files.
 The models can be used through the class_eval.py and ner_eval.py scripts.
 
 Example:
-
+  ```
   class_eval.py -model checkpoints/CNN_A_1812972722/ -pos data/d3_A_pos.txt -neg data/d3_A_neg.txt
+  ```
   This will output a TPR and TNR score for the datasets provided.
 
   Alternatively, a txt file with only text and the output file will provide a prediciton for each line
+  ```
   class_eval.py -model checkpoints/CNN_A_1812972722/ -input input.txt -output output.txt
+  ```
 
 # Training models
 
