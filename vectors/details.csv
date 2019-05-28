@@ -1,0 +1,8 @@
+					
+Total number of words	13327				
+Total number of words in positive datasets	3818				
+					
+					
+Embedding Model	Dim	Source	All Vectors	Useful Vectors	Positive Vectors
+w2v_300d	300	Google News, about 100B words	3M	8284	2651
+glove_cc_300d	300	Common Crawl	1.9M	10126	3174
