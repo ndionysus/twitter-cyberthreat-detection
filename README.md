@@ -1,5 +1,6 @@
 # twitter-cyberthreat-detection
 This repository holds the dataset used to conduct experiments for the "Cyberthreat Detection from Twitter using Deep Neural Networks" accepted to the IJCNN 2019.
+
 Please check the more recent Pytorch version which included a Multi-Task component: https://github.com/ndionysus/multitask-cyberthreat-detection.
 
 # Data:
